@@ -330,6 +330,11 @@
 
       <div class="social" data-aos="zoom-in">
 
+        <a href="https://discord.gg/W4dXVxjk" target="_blank">
+          <i class="fab fa-discord"></i>
+            Discord
+        </a>       
+
         <a href="https://www.tiktok.com/@ini.vincen?_r=1&_t=ZS-94eMtNpJa0A" target="_blank">
           <i class="fab fa-tiktok"></i>
           TikTok

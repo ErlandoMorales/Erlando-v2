@@ -330,7 +330,7 @@
 
       <div class="social" data-aos="zoom-in">
 
-        <a href="https://discord.gg/W4dXVxjk" target="_blank">
+        <a href="https://discord.gg/WQeqNawxH" target="_blank">
           <i class="fab fa-discord"></i>
             Discord
         </a>       

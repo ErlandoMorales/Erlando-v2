@@ -305,7 +305,7 @@
 
       <div class="about-text" data-aos="fade-up">
         <p>
-         Yo! 👋
+         Yo! waddup
          Selamat datang di website gue. Gue orang yang suka banget sama dunia game dan
          teknologi. Di sini gue share beberapa hal tentang project, eksperimen IT, dan hal-hal
          random yang berhubungan sama dunia digital. Gue juga suka banget main game, jadi jangan kaget kalau ada beberapa konten tentang gaming.
